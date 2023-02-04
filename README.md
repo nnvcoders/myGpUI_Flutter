@@ -1,4 +1,5 @@
 ![MasterHead](https://i.ibb.co/PzMJ0jW/313902078-634255444887454-5947256805127212948-n.jpg)
+  ## 💰 You can help me by Donating
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/no.name.virus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shirajul_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shirajul-islam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nnvcoders) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18207011) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shirajul_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuBZ6d66p4VWRF5mjltFyEw) 
@@ -9,7 +10,7 @@
 
 >> Flutter SDK Version: 3.3.10 <br>
 >> Dart SDK Version: 2.18.6 
-<a href="
+
 
 
 After you open code you must have to run 'flutter pub get' command in terminal.
@@ -23,3 +24,5 @@ Enjoy!
 <img src="https://i.postimg.cc/QxWdcsW-X/3.jpg"/>
 <img src="https://i.postimg.cc/rwXFJbS5/4.jpg"/>
 <img src="https://i.postimg.cc/6pr6100g/5.jpg"/>
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nnvcoders) 
